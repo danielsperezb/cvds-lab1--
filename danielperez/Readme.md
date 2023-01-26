@@ -12,8 +12,8 @@ Plan de estudios:
 
 Link de mi universidad: <https://www.escuelaing.edu.co/es/
 
-Logo de mi universidad:
-![](https://ibb.co/C0nPtWF)
+Imagen creada por mi en canva:
+![](https://ecichat.com/img/logo.png)
 
 Un problema matematico: `2+2` = ventana 
 
