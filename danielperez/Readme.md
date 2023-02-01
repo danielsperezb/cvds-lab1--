@@ -20,3 +20,7 @@ Un problema matematico: `2+2` = ventana
 Equipos futbolisticos favoritos:
 * Real Madrid
 * AlNassar
+
+Foto de los ejercicios:
+ ![](https://tucatalogo.digital/img_cvds/aa11primeraFotoCVDS.jpeg)
+
