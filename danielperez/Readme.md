@@ -25,6 +25,6 @@ Equipos futbolisticos favoritos:
 
 Foto de los ejercicios:
  ![](https://tucatalogo.digital/img_cvds/subir.jpeg)
+ ![](https://tucatalogo.digital/img_cvds/subir2.jpeg)
 
- 
 
