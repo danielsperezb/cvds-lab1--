@@ -19,3 +19,11 @@ Mis juegos preferidos son:
 2. Warzone
 
 Estudio ingenieria de sistemas aqui: <https://www.escuelaing.edu.co/es/>
+
+## LEARN GIT BRANCHING
+
+### Main
+![](https://i.postimg.cc/Pr5GMf9s/Captura-de-pantalla-2023-02-01-232047222.png)
+
+### Remote
+![](https://i.postimg.cc/VvjNBfVb/Captura-de-pantalla-2023-02-01-23180111.png)
